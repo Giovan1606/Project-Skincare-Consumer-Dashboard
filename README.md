@@ -50,4 +50,4 @@ The interactive dashboard summarizes key consumer insights through visualization
 ## Project Files
 
 - [View Excel Dashboard](Excel%20Skincare%20Dashboard.xlsx)
-- [View Project Documentation](Documentation%20Skincare%20Dashboard.docx)
+- [View Project Documentation](Documentation%20Skincare%20Dashboard.pdf)
